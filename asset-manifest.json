@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a25da80.css",
-    "main.js": "/static/js/main.1dca025e.js",
-    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
-    "static/media/pp 2.png": "/static/media/pp 2.703dfbdc38b2e9179b46.png",
-    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/tech-img.jpg": "/static/media/tech-img.5e01557d23bc14012c11.jpg",
-    "index.html": "/index.html",
-    "main.3a25da80.css.map": "/static/css/main.3a25da80.css.map",
-    "main.1dca025e.js.map": "/static/js/main.1dca025e.js.map",
-    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/EdouardCourty.github.io/static/css/main.ffa92309.css",
+    "main.js": "/EdouardCourty.github.io/static/js/main.44e89a71.js",
+    "static/js/453.b05d8aa5.chunk.js": "/EdouardCourty.github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/pp 2.png": "/EdouardCourty.github.io/static/media/pp 2.703dfbdc38b2e9179b46.png",
+    "static/media/bg-light.png": "/EdouardCourty.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/tech-img.jpg": "/EdouardCourty.github.io/static/media/tech-img.5e01557d23bc14012c11.jpg",
+    "index.html": "/EdouardCourty.github.io/index.html",
+    "main.ffa92309.css.map": "/EdouardCourty.github.io/static/css/main.ffa92309.css.map",
+    "main.44e89a71.js.map": "/EdouardCourty.github.io/static/js/main.44e89a71.js.map",
+    "453.b05d8aa5.chunk.js.map": "/EdouardCourty.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a25da80.css",
-    "static/js/main.1dca025e.js"
+    "static/css/main.ffa92309.css",
+    "static/js/main.44e89a71.js"
   ]
 }
